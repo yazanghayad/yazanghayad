@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-stack+Developer+%7C+Researcher+%7C+Founder;Building+AI-Powered+Platforms;OptiTech+Sverige+AB+%E2%80%94+Stockholm%2C+Sweden" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Yazan+Ghayad;Full-stack+Developer;Business+Development+Manager;Founder+of+OptiTech" alt="Typing SVG" />
 </p>
 
 ---
