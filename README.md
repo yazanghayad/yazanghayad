@@ -40,7 +40,4 @@ Published on [ResearchGate](https://www.researchgate.net/profile/Yazan-Ghayad-4)
     <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&height=120&section=footer" alt="Footer" />
 </p>
