@@ -6,15 +6,6 @@ I build software that solves real business problems — AI-powered platforms, cu
 
 ---
 
-### Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [SWEO](https://github.com/yazanghayad/SWEO) | AI-powered customer support platform with multi-channel inbox, knowledge base, conversation analytics, and embeddable chat widget | Next.js, React, MongoDB, OpenAI, Stripe |
-| [Prakto](https://github.com/yazanghayad/prakto) | Internship and career management platform connecting students with companies. Application tracking, journals, portfolios, and AI tools | Next.js, React, Appwrite, TanStack |
-
----
-
 ### Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
