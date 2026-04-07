@@ -2,11 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-stack+Developer+%7C+Researcher+%7C+Founder;Building+AI-Powered+Platforms;OptiTech+Sverige+AB+%E2%80%94+Stockholm%2C+Sweden" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yazanghayad&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/yazanghayad?label=Followers&style=for-the-badge&color=236ad3" alt="Followers" />
-</p>
-
 ---
 
 ## About Me
