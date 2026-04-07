@@ -22,7 +22,7 @@ Published on [ResearchGate](https://www.researchgate.net/profile/Yazan-Ghayad-4)
 ## Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yazanghayad&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=yazanghayad&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
 </p>
 
 ---
