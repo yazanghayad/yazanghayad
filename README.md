@@ -23,8 +23,9 @@ I build software that solves real business problems — AI-powered platforms, cu
 
 ### Research
 
-Published author with work on artificial intelligence and labor markets in the Nordics.
-Available on [ResearchGate](https://www.researchgate.net/profile/Yazan-Ghayad-4).
+MBA, Business Development Manager at Sodertorn University, Stockholm. 7 publications on [ResearchGate](https://www.researchgate.net/profile/Yazan-Ghayad-4).
+
+My main interests are public finance and public economics, especially how automation affects productivity, income distribution, and the ability of states to fund welfare systems over time. My perspective is shaped by moving between theory and practice, and by an interest in how economic institutions adapt when work, income, and value creation begin to decouple.
 
 ---
 
